@@ -1,2 +1,2 @@
 # netscript
-A siple script for a network explore.
+A simple script for a network explore.
